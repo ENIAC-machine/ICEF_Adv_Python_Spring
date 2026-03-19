@@ -1,0 +1,6 @@
+,id,client_id,driver_id,city_id,status,request_at
+0,1,1,10,1,completed,2013-10-01
+1,2,2,11,1,cancelled_by_driver,2013-10-01
+2,3,3,12,1,completed,2013-10-02
+3,4,4,13,1,cancelled_by_client,2013-10-02
+4,5,5,14,1,completed,2013-10-03
