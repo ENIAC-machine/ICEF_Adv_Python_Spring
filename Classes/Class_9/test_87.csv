@@ -1,0 +1,5 @@
+,book_id,title,author,genre,publication_year,current_borrowers
+32,33,Book_33,Author_3,Genre_3,1944,1
+40,41,Book_41,Author_1,Genre_1,1965,1
+36,37,Book_37,Author_7,Genre_2,2018,0
+58,59,Book_59,Author_9,Genre_4,1954,0

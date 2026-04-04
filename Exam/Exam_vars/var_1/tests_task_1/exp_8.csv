@@ -1,0 +1,3 @@
+,book_id,title,author,genre,publication_year,current_borrowers
+1,1,A Book,Author A,Fiction,2000,1
+0,2,Z Book,Author A,Fiction,2000,1

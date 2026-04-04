@@ -1,0 +1,11 @@
+student_id,student_name,subject_name,attended_exams
+1,Student_1,Subject_1,0
+1,Student_1,Subject_2,0
+1,Student_1,Subject_3,0
+1,Student_1,Subject_4,0
+1,Student_1,Subject_5,0
+2,Student_2,Subject_1,0
+2,Student_2,Subject_2,0
+2,Student_2,Subject_3,0
+2,Student_2,Subject_4,0
+2,Student_2,Subject_5,0

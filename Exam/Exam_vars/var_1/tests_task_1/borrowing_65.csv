@@ -1,0 +1,11 @@
+,record_id,book_id,borrower_name,borrow_date,return_date
+0,1,1,Borrower_57,2024-07-13,2024-07-16
+1,2,1,Borrower_39,2024-10-05,
+2,3,3,Borrower_18,2024-12-09,2024-11-11
+3,4,2,Borrower_7,2024-08-10,2024-01-06
+4,5,1,Borrower_5,2024-05-06,2024-10-02
+5,6,3,Borrower_65,2024-06-20,
+6,7,1,Borrower_4,2024-04-06,2024-09-13
+7,8,4,Borrower_61,2024-12-22,
+8,9,3,Borrower_90,2024-03-07,
+9,10,2,Borrower_13,2024-02-26,

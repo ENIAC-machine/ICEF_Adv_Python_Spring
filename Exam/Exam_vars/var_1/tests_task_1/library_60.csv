@@ -1,0 +1,7 @@
+,book_id,title,author,genre,publication_year,total_copies
+0,1,Book_1,Author_1,Genre_1,2003,5
+1,2,Book_2,Author_2,Genre_2,1998,3
+2,3,Book_3,Author_3,Genre_0,1988,7
+3,4,Book_4,Author_4,Genre_1,1924,2
+4,5,Book_5,Author_0,Genre_2,1917,4
+5,6,Book_6,Author_1,Genre_0,2009,7

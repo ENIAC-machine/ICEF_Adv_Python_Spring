@@ -1,0 +1,4 @@
+student_id,student_name,subject_name,attended_exams
+1,Alice,Math,2
+2,Bob,Math,0
+3,Charlie,Math,1

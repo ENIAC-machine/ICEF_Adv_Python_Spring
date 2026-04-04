@@ -1,0 +1,6 @@
+,user_id,activity_date,activity_type,activity_duration
+0,1,2023-07-01,free_trial,95
+1,1,2023-06-02,free_trial,31
+2,1,2023-03-03,free_trial,111
+3,1,2023-11-11,paid,17
+4,1,2023-02-12,paid,36
