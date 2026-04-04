@@ -5,7 +5,8 @@ This repo contains the materials for the Advanced Python classes for ICEF 1st ye
 
 ## Notes
 
-* If the Class_i folder is empty, then during the class the previous class's file was worked on
+### 2026 version
+  * If the Class_i folder is empty, then during the class the previous class's file was worked on
 
 ## Changelog
 
